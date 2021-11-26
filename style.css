@@ -1,0 +1,32 @@
+
+.background-bg-warning{
+
+    background-color: #264653;
+    color: white;
+}
+.btn-danger{
+   background-color:  #e76f51 !important;
+   
+}
+.text-color{
+    color: black;
+}
+.color  {
+    color:#e76f51 ;
+}
+.gray{
+    
+ filter: grayscale(100%);
+}
+.far{
+    color: #e76f51;
+}
+.fas{
+    color: #e76f51;
+}
+.fab{
+    width: 50px;
+}
+.bg-dark{
+    background-color: black !important;
+}
